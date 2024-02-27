@@ -1,0 +1,9005 @@
+{
+ "data": [
+  {
+   "downloads": 1216239140,
+   "name": "boto3",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 522158219,
+   "name": "urllib3",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 515780987,
+   "name": "botocore",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 475330145,
+   "name": "requests",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 414408862,
+   "name": "certifi",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 397389669,
+   "name": "typing-extensions",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 389267949,
+   "name": "idna",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 387594603,
+   "name": "charset-normalizer",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 344665128,
+   "name": "python-dateutil",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 344468401,
+   "name": "setuptools",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 336309885,
+   "name": "packaging",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 325335347,
+   "name": "s3transfer",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 312699783,
+   "name": "aiobotocore",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 311906041,
+   "name": "wheel",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 297295755,
+   "name": "pyyaml",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 296797245,
+   "name": "six",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 279321640,
+   "name": "grpcio-status",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 275842780,
+   "name": "pip",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 259201797,
+   "name": "numpy",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 257406933,
+   "name": "s3fs",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 254275962,
+   "name": "fsspec",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 249870138,
+   "name": "cryptography",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 225989251,
+   "name": "cffi",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 223824479,
+   "name": "google-api-core",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 222856352,
+   "name": "pycparser",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 212578218,
+   "name": "pandas",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 206613354,
+   "name": "importlib-metadata",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 195466608,
+   "name": "pyasn1",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 194297490,
+   "name": "rsa",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 194052927,
+   "name": "zipp",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 191020658,
+   "name": "click",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 189386837,
+   "name": "pydantic",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 188410549,
+   "name": "attrs",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 176459583,
+   "name": "protobuf",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 174747104,
+   "name": "jmespath",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 167015326,
+   "name": "platformdirs",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 162667580,
+   "name": "pytz",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 160271201,
+   "name": "jinja2",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 159126927,
+   "name": "awscli",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 158281250,
+   "name": "colorama",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 157430205,
+   "name": "markupsafe",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 151200681,
+   "name": "pyjwt",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 142154371,
+   "name": "tomli",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 134156462,
+   "name": "googleapis-common-protos",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 133970535,
+   "name": "wrapt",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 133146835,
+   "name": "filelock",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 130825610,
+   "name": "cachetools",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 130001714,
+   "name": "google-auth",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 124996200,
+   "name": "pluggy",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 119682421,
+   "name": "requests-oauthlib",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 118983188,
+   "name": "virtualenv",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 117547702,
+   "name": "pytest",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 116144452,
+   "name": "oauthlib",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 115941545,
+   "name": "pyarrow",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 115634505,
+   "name": "docutils",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 113043846,
+   "name": "exceptiongroup",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 110168402,
+   "name": "pyasn1-modules",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 109809048,
+   "name": "jsonschema",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 106246301,
+   "name": "iniconfig",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 105399141,
+   "name": "scipy",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 104887778,
+   "name": "pyparsing",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 104829193,
+   "name": "aiohttp",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 104264728,
+   "name": "isodate",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 103848570,
+   "name": "soupsieve",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 103244506,
+   "name": "sqlalchemy",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 100728545,
+   "name": "beautifulsoup4",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 99503502,
+   "name": "psutil",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 98213668,
+   "name": "pydantic-core",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 97878667,
+   "name": "pygments",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 97143187,
+   "name": "multidict",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 96895114,
+   "name": "pyopenssl",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 95503227,
+   "name": "yarl",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 95337641,
+   "name": "decorator",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 94151856,
+   "name": "tzdata",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 91568795,
+   "name": "async-timeout",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 91561499,
+   "name": "tqdm",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 91097046,
+   "name": "grpcio",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 91059921,
+   "name": "frozenlist",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 90086650,
+   "name": "pillow",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 90037901,
+   "name": "aiosignal",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 88968363,
+   "name": "greenlet",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 88839652,
+   "name": "openpyxl",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 87121295,
+   "name": "et-xmlfile",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 86773403,
+   "name": "requests-toolbelt",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 85957011,
+   "name": "annotated-types",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 83625734,
+   "name": "lxml",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 82112470,
+   "name": "tomlkit",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 81432088,
+   "name": "werkzeug",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 81336091,
+   "name": "proto-plus",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 80457254,
+   "name": "pynacl",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 80290581,
+   "name": "deprecated",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 79227109,
+   "name": "azure-core",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 77951543,
+   "name": "asn1crypto",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 76600584,
+   "name": "distlib",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 74421168,
+   "name": "importlib-resources",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 74035334,
+   "name": "coverage",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 73457957,
+   "name": "more-itertools",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 71268918,
+   "name": "google-cloud-storage",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 70150916,
+   "name": "websocket-client",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 69528386,
+   "name": "h11",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 68329921,
+   "name": "sniffio",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 66940941,
+   "name": "pexpect",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 66148529,
+   "name": "ptyprocess",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 65589305,
+   "name": "msgpack",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 65035398,
+   "name": "google-cloud-core",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 64690425,
+   "name": "python-dotenv",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 64557103,
+   "name": "anyio",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 64383182,
+   "name": "flask",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 64196628,
+   "name": "rpds-py",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 64052183,
+   "name": "scikit-learn",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 63958049,
+   "name": "referencing",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 63302540,
+   "name": "typedload",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 62854098,
+   "name": "google-resumable-media",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 62156815,
+   "name": "chardet",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 61932801,
+   "name": "psycopg2-binary",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 61905533,
+   "name": "jsonschema-specifications",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 61208809,
+   "name": "backoff",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 60166160,
+   "name": "msal",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 60103816,
+   "name": "tenacity",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 60013255,
+   "name": "poetry-plugin-export",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 58125973,
+   "name": "tabulate",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 58114294,
+   "name": "matplotlib",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 57949551,
+   "name": "poetry-core",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 57603167,
+   "name": "httpcore",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 57462660,
+   "name": "pathspec",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 57285877,
+   "name": "rich",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 57114168,
+   "name": "py",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 57054229,
+   "name": "httpx",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 56732727,
+   "name": "bcrypt",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 55845551,
+   "name": "wcwidth",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 55839433,
+   "name": "mypy-extensions",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 54357077,
+   "name": "dill",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 54249863,
+   "name": "sortedcontainers",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 54225890,
+   "name": "gitpython",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 54117037,
+   "name": "paramiko",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 53524871,
+   "name": "shellingham",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 53455349,
+   "name": "threadpoolctl",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 53114007,
+   "name": "itsdangerous",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 52411561,
+   "name": "snowflake-connector-python",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 52071495,
+   "name": "markdown-it-py",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 51949861,
+   "name": "keyring",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 51570301,
+   "name": "regex",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 51403348,
+   "name": "google-crc32c",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 51201536,
+   "name": "azure-storage-blob",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 51139433,
+   "name": "mdurl",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 50953006,
+   "name": "smmap",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 50933104,
+   "name": "ruamel-yaml",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 50831310,
+   "name": "gitdb",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 50285803,
+   "name": "kiwisolver",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 49938847,
+   "name": "networkx",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 48998253,
+   "name": "cycler",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 48658357,
+   "name": "py4j",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 48655505,
+   "name": "portalocker",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 48639608,
+   "name": "google-auth-oauthlib",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 47891942,
+   "name": "awswrangler",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 47753535,
+   "name": "joblib",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 47584744,
+   "name": "pytest-cov",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 47561393,
+   "name": "fastjsonschema",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 47313648,
+   "name": "secretstorage",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 46891426,
+   "name": "pkginfo",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 46762067,
+   "name": "jaraco-classes",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 46623304,
+   "name": "jeepney",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 46519560,
+   "name": "future",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 46361688,
+   "name": "grpcio-tools",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 46120601,
+   "name": "build",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 46106129,
+   "name": "sqlparse",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 45952549,
+   "name": "fonttools",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 45632674,
+   "name": "msal-extensions",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 45355067,
+   "name": "google-cloud-bigquery",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 45149681,
+   "name": "pymysql",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 44283829,
+   "name": "trove-classifiers",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 44167218,
+   "name": "prompt-toolkit",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 44089390,
+   "name": "pyproject-hooks",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 43945977,
+   "name": "rapidfuzz",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 42982189,
+   "name": "cloudpickle",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 42967981,
+   "name": "xmltodict",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 42826844,
+   "name": "dnspython",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 42491631,
+   "name": "azure-identity",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 42478822,
+   "name": "google-api-python-client",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 42446164,
+   "name": "nest-asyncio",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 42192586,
+   "name": "tzlocal",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 42089499,
+   "name": "marshmallow",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 41839339,
+   "name": "distro",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 41134521,
+   "name": "scramp",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 40248406,
+   "name": "docker",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 39396541,
+   "name": "ruamel-yaml-clib",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 39222968,
+   "name": "toml",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 39053313,
+   "name": "cython",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 38894224,
+   "name": "mccabe",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 38720713,
+   "name": "defusedxml",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 38232188,
+   "name": "uritemplate",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 38219480,
+   "name": "cachecontrol",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 38010960,
+   "name": "ipython",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 38001472,
+   "name": "pyrsistent",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 37844772,
+   "name": "huggingface-hub",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 37599737,
+   "name": "termcolor",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 37553470,
+   "name": "traitlets",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 37439374,
+   "name": "httplib2",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 37425472,
+   "name": "google-auth-httplib2",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 37256425,
+   "name": "blinker",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 36718831,
+   "name": "pendulum",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 36650839,
+   "name": "ply",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 36347215,
+   "name": "markdown",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 36321916,
+   "name": "babel",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 35998442,
+   "name": "poetry",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 35355481,
+   "name": "alembic",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 35310736,
+   "name": "requests-aws4auth",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 35209188,
+   "name": "pycodestyle",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 35100632,
+   "name": "gunicorn",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 34976620,
+   "name": "redis",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 34938192,
+   "name": "tornado",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 34651596,
+   "name": "pygithub",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 34529377,
+   "name": "contourpy",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 34333296,
+   "name": "isort",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 34141735,
+   "name": "msrest",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 33928883,
+   "name": "azure-common",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 33842675,
+   "name": "crashtest",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 33766886,
+   "name": "types-requests",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 33639833,
+   "name": "redshift-connector",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 33610931,
+   "name": "jedi",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 33589332,
+   "name": "retry",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 33575730,
+   "name": "datadog",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 33430945,
+   "name": "dulwich",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 33260611,
+   "name": "jsonpointer",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 33246072,
+   "name": "grpc-google-iam-v1",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 33098546,
+   "name": "pycryptodomex",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 33016172,
+   "name": "cleo",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 32731685,
+   "name": "parso",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 32613617,
+   "name": "webencodings",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 32580705,
+   "name": "matplotlib-inline",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 32435947,
+   "name": "pg8000",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 32281589,
+   "name": "pytzdata",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 31763571,
+   "name": "fastapi",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 31493983,
+   "name": "installer",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 31377946,
+   "name": "jsonpath-ng",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 31298277,
+   "name": "opentelemetry-api",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 31192285,
+   "name": "tb-nightly",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 30904578,
+   "name": "prometheus-client",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 30774617,
+   "name": "black",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 30486401,
+   "name": "pytest-runner",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 30009088,
+   "name": "loguru",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 29558773,
+   "name": "toolz",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 29315844,
+   "name": "pycryptodome",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 28916251,
+   "name": "python-json-logger",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 28857093,
+   "name": "pyzmq",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 28612277,
+   "name": "pkgutil-resolve-name",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 28270506,
+   "name": "kubernetes",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 28209603,
+   "name": "mako",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 28112944,
+   "name": "typer",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 27990525,
+   "name": "sentry-sdk",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 27684532,
+   "name": "pyspark",
+   "wheel": false,
+   "value": 1,
+   "css_class": "default",
+   "icon": "\u2717",
+   "title": "This package has no wheel archives uploaded (yet!)."
+  },
+  {
+   "downloads": 27661863,
+   "name": "multiprocess",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 27646469,
+   "name": "websockets",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 27520013,
+   "name": "argcomplete",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 27503134,
+   "name": "arrow",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 27495400,
+   "name": "transformers",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 26998560,
+   "name": "google-pasta",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 26895580,
+   "name": "asttokens",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 26885269,
+   "name": "opensearch-py",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 26870181,
+   "name": "opentelemetry-sdk",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 26627512,
+   "name": "jsonpatch",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 26577745,
+   "name": "progressbar2",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 26552702,
+   "name": "executing",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 26515171,
+   "name": "jupyter-core",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 26415873,
+   "name": "orjson",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 26358749,
+   "name": "typing-inspect",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 26242214,
+   "name": "google-cloud-pubsub",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 26232786,
+   "name": "setuptools-scm",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 25912254,
+   "name": "pymongo",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 25872249,
+   "name": "aioitertools",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 25804815,
+   "name": "stack-data",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 25771928,
+   "name": "jupyter-client",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 25697519,
+   "name": "torch",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 25583778,
+   "name": "pure-eval",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 25522303,
+   "name": "uvicorn",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 25428648,
+   "name": "pyflakes",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 25146072,
+   "name": "nbconvert",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 24968713,
+   "name": "aenum",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 24814204,
+   "name": "oscrypto",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 24732612,
+   "name": "opentelemetry-semantic-conventions",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 24710668,
+   "name": "starlette",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 24687150,
+   "name": "asgiref",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 24528494,
+   "name": "elasticsearch",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 24379019,
+   "name": "shapely",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 24327701,
+   "name": "python-utils",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 24312303,
+   "name": "tensorboard",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 24269734,
+   "name": "ipykernel",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 24242437,
+   "name": "debugpy",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 24185151,
+   "name": "apache-airflow",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 24079214,
+   "name": "jupyter-server",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 24018431,
+   "name": "types-python-dateutil",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 24009046,
+   "name": "flake8",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 23824280,
+   "name": "google-cloud-secret-manager",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 23701300,
+   "name": "tokenizers",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 23562466,
+   "name": "nbformat",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 23546554,
+   "name": "pyodbc",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 23512357,
+   "name": "requests-file",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 23433363,
+   "name": "notebook",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 23218353,
+   "name": "sagemaker",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 23178523,
+   "name": "snowflake-sqlalchemy",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 23029959,
+   "name": "absl-py",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 22915566,
+   "name": "structlog",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 22220397,
+   "name": "smart-open",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 22048874,
+   "name": "pylint",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 21974435,
+   "name": "mysql-connector-python",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 21952276,
+   "name": "adal",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 21883048,
+   "name": "xlrd",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 21880848,
+   "name": "openai",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 21579946,
+   "name": "sympy",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 21536303,
+   "name": "humanfriendly",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 21520957,
+   "name": "pysocks",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 21392228,
+   "name": "astroid",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 21389790,
+   "name": "zope-interface",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 21388424,
+   "name": "monotonic",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 21372580,
+   "name": "mistune",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 21370291,
+   "name": "rfc3339-validator",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 21228479,
+   "name": "bleach",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 21209244,
+   "name": "tinycss2",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 21058969,
+   "name": "imageio",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 20853190,
+   "name": "comm",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 20738000,
+   "name": "xlsxwriter",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 20553075,
+   "name": "typeguard",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 20372793,
+   "name": "cattrs",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 20309071,
+   "name": "click-man",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 20011727,
+   "name": "asynctest",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 19891866,
+   "name": "jupyterlab-server",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 19876529,
+   "name": "pbr",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 19819845,
+   "name": "mpmath",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 19813520,
+   "name": "h5py",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 19701148,
+   "name": "altair",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 19571345,
+   "name": "tensorflow",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 19338670,
+   "name": "sentencepiece",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 19311636,
+   "name": "jupyterlab",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 19234214,
+   "name": "slack-sdk",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 19198390,
+   "name": "text-unidecode",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 19068318,
+   "name": "argon2-cffi",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 19052136,
+   "name": "nbclient",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 19041116,
+   "name": "google-cloud-bigquery-storage",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 18821360,
+   "name": "gremlinpython",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 18813696,
+   "name": "xgboost",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 18649969,
+   "name": "send2trash",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 18623316,
+   "name": "croniter",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 18552669,
+   "name": "nodeenv",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 18541728,
+   "name": "email-validator",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 18382140,
+   "name": "watchdog",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 18363303,
+   "name": "pytest-xdist",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 18341099,
+   "name": "argon2-cffi-bindings",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 18176592,
+   "name": "oauth2client",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 18157397,
+   "name": "execnet",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 17961316,
+   "name": "flatbuffers",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 17956239,
+   "name": "nltk",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 17942911,
+   "name": "simplejson",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 17909671,
+   "name": "appdirs",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 17875158,
+   "name": "google-cloud-aiplatform",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 17760458,
+   "name": "ujson",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 17683687,
+   "name": "google-cloud-appengine-logging",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 17678836,
+   "name": "python-slugify",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 17600012,
+   "name": "dataclasses-json",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 17528658,
+   "name": "great-expectations",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 17522752,
+   "name": "overrides",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 17515745,
+   "name": "lz4",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 17408577,
+   "name": "gast",
+   "wheel": false,
+   "value": 1,
+   "css_class": "default",
+   "icon": "\u2717",
+   "title": "This package has no wheel archives uploaded (yet!)."
+  },
+  {
+   "downloads": 17241264,
+   "name": "json5",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 17165787,
+   "name": "pandocfilters",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 17104701,
+   "name": "setproctitle",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 16961085,
+   "name": "notebook-shim",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 16881205,
+   "name": "entrypoints",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 16867684,
+   "name": "ipywidgets",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 16864120,
+   "name": "widgetsnbextension",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 16845184,
+   "name": "jupyterlab-pygments",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 16832558,
+   "name": "db-dtypes",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 16832206,
+   "name": "pre-commit",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 16705078,
+   "name": "azure-storage-file-datalake",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 16674063,
+   "name": "schema",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 16573115,
+   "name": "seaborn",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 16560932,
+   "name": "mypy",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 16536109,
+   "name": "google-cloud-resource-manager",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 16385446,
+   "name": "selenium",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 16374868,
+   "name": "identify",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 16320662,
+   "name": "aiofiles",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 16306248,
+   "name": "analytics-python",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 16240480,
+   "name": "orbax-checkpoint",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 16214968,
+   "name": "pathos",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 16189652,
+   "name": "opentelemetry-proto",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 16185010,
+   "name": "apache-airflow-providers-common-sql",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 16132436,
+   "name": "jupyterlab-widgets",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 16106240,
+   "name": "webcolors",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 16026734,
+   "name": "numba",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15993863,
+   "name": "terminado",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15988102,
+   "name": "pox",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15983721,
+   "name": "ppft",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15923340,
+   "name": "pkce",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15888410,
+   "name": "cfgv",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15887651,
+   "name": "llvmlite",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15830144,
+   "name": "evergreen-py",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15760901,
+   "name": "html5lib",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15759393,
+   "name": "semver",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15740705,
+   "name": "azure-mgmt-core",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15693965,
+   "name": "statsmodels",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15602366,
+   "name": "jupyter-events",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15570229,
+   "name": "tensorboard-data-server",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15548446,
+   "name": "db-contrib-tool",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15503300,
+   "name": "hvac",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15489739,
+   "name": "keras",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15474441,
+   "name": "fqdn",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15439307,
+   "name": "rfc3986-validator",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15410616,
+   "name": "isoduration",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15396939,
+   "name": "smdebug-rulesconfig",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15383310,
+   "name": "uri-template",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15321446,
+   "name": "sphinx",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15301136,
+   "name": "lazy-object-proxy",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15253362,
+   "name": "google-cloud-logging",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 15201447,
+   "name": "databricks-cli",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14988795,
+   "name": "databricks-sql-connector",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14971849,
+   "name": "safetensors",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14929421,
+   "name": "pandas-gbq",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14893021,
+   "name": "responses",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14781784,
+   "name": "wsproto",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14756639,
+   "name": "cached-property",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14706993,
+   "name": "jupyter-server-terminals",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14679131,
+   "name": "cinemagoer",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14663774,
+   "name": "imdbpy",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14627662,
+   "name": "thrift",
+   "wheel": false,
+   "value": 1,
+   "css_class": "default",
+   "icon": "\u2717",
+   "title": "This package has no wheel archives uploaded (yet!)."
+  },
+  {
+   "downloads": 14595607,
+   "name": "tensorflow-estimator",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14544028,
+   "name": "psycopg2",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14513889,
+   "name": "httptools",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14458986,
+   "name": "opencv-python",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14425385,
+   "name": "python-multipart",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14376870,
+   "name": "patsy",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14349707,
+   "name": "async-lru",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14253256,
+   "name": "msrestazure",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14222586,
+   "name": "ordered-set",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14217126,
+   "name": "pytest-mock",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14197859,
+   "name": "mock",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14175986,
+   "name": "opentelemetry-exporter-otlp-proto-common",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14170374,
+   "name": "uvloop",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14086874,
+   "name": "pickleshare",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 14047183,
+   "name": "lockfile",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13914155,
+   "name": "watchfiles",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13882358,
+   "name": "opt-einsum",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13847819,
+   "name": "antlr4-python3-runtime",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13803215,
+   "name": "aws-requests-auth",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13740615,
+   "name": "backcall",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13727255,
+   "name": "docker-pycreds",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13718905,
+   "name": "jupyter-lsp",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13693717,
+   "name": "django",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13658551,
+   "name": "opentelemetry-exporter-otlp-proto-http",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13578778,
+   "name": "faker",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13541415,
+   "name": "azure-keyvault-secrets",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13540132,
+   "name": "click-plugins",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13463235,
+   "name": "langchain-core",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13384221,
+   "name": "tensorstore",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13342814,
+   "name": "prettytable",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13251108,
+   "name": "argparse",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13193567,
+   "name": "tox",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13184457,
+   "name": "backports-zoneinfo",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13178496,
+   "name": "plotly",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13177218,
+   "name": "astunparse",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13150517,
+   "name": "kafka-python",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13138450,
+   "name": "confluent-kafka",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13126241,
+   "name": "wandb",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 13119229,
+   "name": "zeep",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12974624,
+   "name": "gsutil",
+   "wheel": false,
+   "value": 1,
+   "css_class": "default",
+   "icon": "\u2717",
+   "title": "This package has no wheel archives uploaded (yet!)."
+  },
+  {
+   "downloads": 12956766,
+   "name": "trio",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12879193,
+   "name": "semantic-version",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12871386,
+   "name": "pymssql",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12839688,
+   "name": "gcsfs",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12839638,
+   "name": "retrying",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12811961,
+   "name": "dataclasses",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12774227,
+   "name": "aws-sam-translator",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12769712,
+   "name": "opentelemetry-exporter-otlp-proto-grpc",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12686708,
+   "name": "sshtunnel",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12533057,
+   "name": "graphql-core",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12490834,
+   "name": "scikit-image",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12431527,
+   "name": "mlflow",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12404477,
+   "name": "pydata-google-auth",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12388774,
+   "name": "libcst",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12385416,
+   "name": "outcome",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12345541,
+   "name": "coloredlogs",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12203142,
+   "name": "snowballstemmer",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12133599,
+   "name": "tblib",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12110443,
+   "name": "google-cloud-audit-log",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12096371,
+   "name": "hatchling",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12067536,
+   "name": "rfc3986",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12064570,
+   "name": "delta-spark",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12021939,
+   "name": "jaraco-functools",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 12005922,
+   "name": "inflection",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 11959693,
+   "name": "xxhash",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 11921399,
+   "name": "tensorflow-io-gcs-filesystem",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 11855913,
+   "name": "makefun",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 11808817,
+   "name": "deprecation",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 11755119,
+   "name": "pydeequ",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 11715020,
+   "name": "azure-mgmt-resource",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 11623015,
+   "name": "torchvision",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 11418447,
+   "name": "colorlog",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 11360960,
+   "name": "docstring-parser",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 11296111,
+   "name": "azure-datalake-store",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 11275435,
+   "name": "querystring-parser",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 11265315,
+   "name": "jaraco-context",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 11246844,
+   "name": "nvidia-nvjitlink-cu12",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 11164370,
+   "name": "libclang",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 11161444,
+   "name": "pipenv",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 11133750,
+   "name": "fastavro",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 11063831,
+   "name": "imbalanced-learn",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 11032165,
+   "name": "tiktoken",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 11007394,
+   "name": "pytest-metadata",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10986926,
+   "name": "azure-nspkg",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10904122,
+   "name": "aniso8601",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10862630,
+   "name": "google-cloud-firestore",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10841405,
+   "name": "opentelemetry-exporter-otlp",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10810104,
+   "name": "flask-appbuilder",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10769879,
+   "name": "unidecode",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10742602,
+   "name": "triton",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10669029,
+   "name": "ruff",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10515995,
+   "name": "zstandard",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10506036,
+   "name": "docopt",
+   "wheel": false,
+   "value": 1,
+   "css_class": "default",
+   "icon": "\u2717",
+   "title": "This package has no wheel archives uploaded (yet!)."
+  },
+  {
+   "downloads": 10500988,
+   "name": "simple-salesforce",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10478696,
+   "name": "pywavelets",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10476125,
+   "name": "s2sphere",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10455262,
+   "name": "trio-websocket",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10452168,
+   "name": "gspread",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10405081,
+   "name": "contextlib2",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10395885,
+   "name": "deepdiff",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10385921,
+   "name": "configparser",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10283830,
+   "name": "dbt-core",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10282660,
+   "name": "azure-storage-common",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10217128,
+   "name": "opencensus-ext-azure",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10195596,
+   "name": "tldextract",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10152905,
+   "name": "datasets",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10150149,
+   "name": "pybind11",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10105842,
+   "name": "nvidia-nccl-cu12",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10104768,
+   "name": "opencensus-context",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10094498,
+   "name": "opencensus",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10059960,
+   "name": "ninja",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 10041780,
+   "name": "jsonpickle",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9950095,
+   "name": "graphviz",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9916163,
+   "name": "gevent",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9884229,
+   "name": "google-cloud-kms",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9865940,
+   "name": "backports-tarfile",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9819044,
+   "name": "uv",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9813059,
+   "name": "imagesize",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9780240,
+   "name": "tensorflow-serving-api",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9680904,
+   "name": "zope-event",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9661209,
+   "name": "ml-dtypes",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9648518,
+   "name": "apache-airflow-providers-snowflake",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9638904,
+   "name": "fastapi-cli",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9619399,
+   "name": "alabaster",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9607696,
+   "name": "pysftp",
+   "wheel": false,
+   "value": 1,
+   "css_class": "default",
+   "icon": "\u2717",
+   "title": "This package has no wheel archives uploaded (yet!)."
+  },
+  {
+   "downloads": 9577307,
+   "name": "sphinxcontrib-serializinghtml",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9547910,
+   "name": "azure-mgmt-storage",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9538156,
+   "name": "datetime",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9534952,
+   "name": "google-cloud-container",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9389074,
+   "name": "google-cloud-dlp",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9382364,
+   "name": "apispec",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9381071,
+   "name": "catalogue",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9344944,
+   "name": "wasabi",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9337661,
+   "name": "typing",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9337407,
+   "name": "sphinxcontrib-htmlhelp",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9323215,
+   "name": "azure-graphrbac",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9302680,
+   "name": "google-cloud-monitoring",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9301374,
+   "name": "sphinxcontrib-qthelp",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9299982,
+   "name": "sphinxcontrib-devhelp",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9292666,
+   "name": "ndg-httpsclient",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9290945,
+   "name": "langchain-community",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9271612,
+   "name": "google-cloud-dataproc",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9269231,
+   "name": "sphinxcontrib-applehelp",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9218530,
+   "name": "srsly",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9196611,
+   "name": "cymem",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9189199,
+   "name": "langchain",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9180959,
+   "name": "dask",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9134558,
+   "name": "brotli",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9127739,
+   "name": "nvidia-cudnn-cu12",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9122232,
+   "name": "murmurhash",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9107640,
+   "name": "pytest-html",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9087188,
+   "name": "nvidia-cublas-cu12",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9086883,
+   "name": "spacy",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9071979,
+   "name": "preshed",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9045469,
+   "name": "sphinxcontrib-jsmath",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 9020982,
+   "name": "nvidia-cuda-nvrtc-cu12",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8985199,
+   "name": "azure-cosmos",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8907299,
+   "name": "watchtower",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8906276,
+   "name": "pytest-asyncio",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8895950,
+   "name": "omegaconf",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8866089,
+   "name": "jira",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8855003,
+   "name": "nvidia-cuda-runtime-cu12",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8845958,
+   "name": "pywin32",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8830723,
+   "name": "nvidia-cuda-cupti-cu12",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8821136,
+   "name": "ecdsa",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8813657,
+   "name": "nvidia-cufft-cu12",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8812094,
+   "name": "nvidia-cusparse-cu12",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8809198,
+   "name": "nvidia-cusolver-cu12",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8767813,
+   "name": "nvidia-curand-cu12",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8746454,
+   "name": "celery",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8711925,
+   "name": "mashumaro",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8702162,
+   "name": "apache-airflow-providers-databricks",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8695537,
+   "name": "mdit-py-plugins",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8671738,
+   "name": "freezegun",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8655973,
+   "name": "nvidia-nvtx-cu12",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8599414,
+   "name": "python-gnupg",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8577929,
+   "name": "kombu",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8570359,
+   "name": "azure-keyvault-keys",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8568250,
+   "name": "azure-keyvault",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8566838,
+   "name": "google-cloud-vision",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8544879,
+   "name": "applicationinsights",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8536208,
+   "name": "google-cloud-tasks",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8471796,
+   "name": "azure-mgmt-containerregistry",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8465531,
+   "name": "looker-sdk",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8444578,
+   "name": "google-cloud-datacatalog",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8437454,
+   "name": "thinc",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8418589,
+   "name": "google-cloud-spanner",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8418321,
+   "name": "amqp",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8417534,
+   "name": "apache-airflow-providers-google",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8411735,
+   "name": "flask-cors",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8408410,
+   "name": "pyathena",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8396943,
+   "name": "pyroaring",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8363819,
+   "name": "google-cloud-bigquery-datatransfer",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8324176,
+   "name": "authlib",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8321557,
+   "name": "invoke",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8239500,
+   "name": "billiard",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8219932,
+   "name": "python-daemon",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8177417,
+   "name": "pypdf2",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8157555,
+   "name": "pyproj",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8144447,
+   "name": "cfn-lint",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8118492,
+   "name": "google-cloud-build",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8081821,
+   "name": "blis",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8081735,
+   "name": "inject",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8074974,
+   "name": "azure-mgmt-authorization",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8068496,
+   "name": "vine",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8052518,
+   "name": "djangorestframework",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8044940,
+   "name": "google-ads",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8015437,
+   "name": "boto",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 8001590,
+   "name": "types-pyyaml",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7989557,
+   "name": "azure-mgmt-network",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7942855,
+   "name": "pathlib2",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7928226,
+   "name": "apache-airflow-providers-http",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7884517,
+   "name": "pycountry",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7851710,
+   "name": "texttable",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7831831,
+   "name": "azure-mgmt-keyvault",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7817321,
+   "name": "agate",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7799175,
+   "name": "ijson",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7768544,
+   "name": "google-cloud-bigtable",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7768437,
+   "name": "python-magic",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7723172,
+   "name": "pytimeparse",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7642681,
+   "name": "google-cloud-dataplex",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7620466,
+   "name": "pyproject-api",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7612238,
+   "name": "google-cloud-workflows",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7606223,
+   "name": "graphene",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7590946,
+   "name": "graphql-relay",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7588085,
+   "name": "bitarray",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7583178,
+   "name": "avro-python3",
+   "wheel": false,
+   "value": 1,
+   "css_class": "default",
+   "icon": "\u2717",
+   "title": "This package has no wheel archives uploaded (yet!)."
+  },
+  {
+   "downloads": 7573115,
+   "name": "hpack",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7570796,
+   "name": "moto",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7548866,
+   "name": "azure-cli",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7543166,
+   "name": "google-cloud-redis",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7533777,
+   "name": "azure-mgmt-compute",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7465076,
+   "name": "flit-core",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7456672,
+   "name": "azure-storage-queue",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7423920,
+   "name": "google-cloud-automl",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7422835,
+   "name": "humanize",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7386459,
+   "name": "h2",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7386386,
+   "name": "hyperframe",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7361523,
+   "name": "pip-tools",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7321433,
+   "name": "opentelemetry-instrumentation",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7305096,
+   "name": "einops",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7304730,
+   "name": "lightgbm",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7289331,
+   "name": "cligj",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7287575,
+   "name": "mypy-boto3-rds",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7260790,
+   "name": "apscheduler",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7256734,
+   "name": "langsmith",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7228779,
+   "name": "parsedatetime",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7205697,
+   "name": "azure-mgmt-cosmosdb",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7166803,
+   "name": "accelerate",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7156561,
+   "name": "holidays",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7154704,
+   "name": "google-cloud-os-login",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7137177,
+   "name": "tensorflow-text",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7136529,
+   "name": "python-jose",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7121845,
+   "name": "google-cloud-language",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7108113,
+   "name": "gradio",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7103447,
+   "name": "google-cloud-videointelligence",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7097017,
+   "name": "google-cloud-memcache",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7067630,
+   "name": "mypy-boto3-s3",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7028416,
+   "name": "jpype1",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 7009057,
+   "name": "stevedore",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6997560,
+   "name": "apache-airflow-providers-ssh",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6989716,
+   "name": "python-http-client",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6966527,
+   "name": "azure-data-tables",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6961002,
+   "name": "apache-airflow-providers-mysql",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6956217,
+   "name": "azure-mgmt-msi",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6932332,
+   "name": "funcsigs",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6903631,
+   "name": "time-machine",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6886100,
+   "name": "sh",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6880425,
+   "name": "shap",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6799508,
+   "name": "enum34",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6798789,
+   "name": "avro",
+   "wheel": false,
+   "value": 1,
+   "css_class": "default",
+   "icon": "\u2717",
+   "title": "This package has no wheel archives uploaded (yet!)."
+  },
+  {
+   "downloads": 6779350,
+   "name": "datadog-api-client",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6720137,
+   "name": "azure-mgmt-containerinstance",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6709313,
+   "name": "pyarrow-hotfix",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6700119,
+   "name": "ipython-genutils",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6697976,
+   "name": "jsondiff",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6687677,
+   "name": "cmake",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6686711,
+   "name": "office365-rest-python-client",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6684690,
+   "name": "azure-mgmt-redis",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6677053,
+   "name": "google-cloud-dataproc-metastore",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6672142,
+   "name": "apache-airflow-providers-fab",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6664977,
+   "name": "click-didyoumean",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6652667,
+   "name": "protobuf3-to-dict",
+   "wheel": false,
+   "value": 1,
+   "css_class": "default",
+   "icon": "\u2717",
+   "title": "This package has no wheel archives uploaded (yet!)."
+  },
+  {
+   "downloads": 6642231,
+   "name": "fuzzywuzzy",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6627922,
+   "name": "azure-mgmt-sql",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6624638,
+   "name": "azure-mgmt-monitor",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6623799,
+   "name": "apache-beam",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6617794,
+   "name": "langcodes",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6612782,
+   "name": "azure-mgmt-nspkg",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6604583,
+   "name": "ratelimit",
+   "wheel": false,
+   "value": 1,
+   "css_class": "default",
+   "icon": "\u2717",
+   "title": "This package has no wheel archives uploaded (yet!)."
+  },
+  {
+   "downloads": 6599016,
+   "name": "cssselect",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6589756,
+   "name": "click-repl",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6589233,
+   "name": "google-cloud-orchestration-airflow",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6588753,
+   "name": "universal-pathlib",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6566033,
+   "name": "azure-servicebus",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6539839,
+   "name": "aws-psycopg2",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6525658,
+   "name": "fire",
+   "wheel": false,
+   "value": 1,
+   "css_class": "default",
+   "icon": "\u2717",
+   "title": "This package has no wheel archives uploaded (yet!)."
+  },
+  {
+   "downloads": 6524086,
+   "name": "resolvelib",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6514260,
+   "name": "elastic-transport",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6511862,
+   "name": "azure-cli-core",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6497969,
+   "name": "fabric",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6479685,
+   "name": "azure-mgmt-web",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6478372,
+   "name": "botocore-stubs",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6471574,
+   "name": "flask-sqlalchemy",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6470588,
+   "name": "tifffile",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6466948,
+   "name": "azure-mgmt-recoveryservices",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6465227,
+   "name": "knack",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6462385,
+   "name": "boto3-stubs",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6458183,
+   "name": "azure-mgmt-containerservice",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6450903,
+   "name": "yamllint",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6449390,
+   "name": "spacy-legacy",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6447889,
+   "name": "hypothesis",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6427405,
+   "name": "google-cloud-dataform",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6422758,
+   "name": "futures",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6405891,
+   "name": "readme-renderer",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6388153,
+   "name": "scp",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6353940,
+   "name": "google-cloud-translate",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6351323,
+   "name": "azure-mgmt-dns",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6343990,
+   "name": "mysqlclient",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6341140,
+   "name": "qtconsole",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6336579,
+   "name": "pyspnego",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6336264,
+   "name": "levenshtein",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6331316,
+   "name": "azure-mgmt-servicebus",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6309960,
+   "name": "azure-batch",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6282800,
+   "name": "polars",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6279310,
+   "name": "sendgrid",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6275859,
+   "name": "spacy-loggers",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6254429,
+   "name": "azure-mgmt-signalr",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6202783,
+   "name": "azure-mgmt-datalake-nspkg",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6202239,
+   "name": "twine",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6198324,
+   "name": "dateparser",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6196754,
+   "name": "pytest-timeout",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6190046,
+   "name": "confection",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6184494,
+   "name": "azure-mgmt-batch",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6182104,
+   "name": "azure-mgmt-datalake-store",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6179310,
+   "name": "astor",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6177775,
+   "name": "parse",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6161108,
+   "name": "azure-mgmt-rdbms",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6157349,
+   "name": "parameterized",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6139165,
+   "name": "cramjam",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6133525,
+   "name": "onnxruntime",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6127599,
+   "name": "fasteners",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6123779,
+   "name": "jaydebeapi",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6120878,
+   "name": "nh3",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6087486,
+   "name": "slicer",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6082361,
+   "name": "azure-mgmt-loganalytics",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6078472,
+   "name": "types-protobuf",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6077691,
+   "name": "geopandas",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6074963,
+   "name": "validators",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6057044,
+   "name": "yapf",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6049915,
+   "name": "azure-mgmt-cdn",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6038113,
+   "name": "ddtrace",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6023638,
+   "name": "py-cpuinfo",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6019602,
+   "name": "azure-mgmt-trafficmanager",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6014551,
+   "name": "sqlalchemy-bigquery",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6012246,
+   "name": "grpcio-gcp",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6008198,
+   "name": "leather",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6005752,
+   "name": "azure-mgmt-marketplaceordering",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 6002417,
+   "name": "azure-mgmt-devtestlabs",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5993771,
+   "name": "qtpy",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5979593,
+   "name": "azure-mgmt-eventhub",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5977497,
+   "name": "junit-xml",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5969500,
+   "name": "azure-mgmt-recoveryservicesbackup",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5924681,
+   "name": "google-cloud-speech",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5922263,
+   "name": "nvidia-cublas-cu11",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5911058,
+   "name": "azure-mgmt-iothub",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5908929,
+   "name": "nvidia-cudnn-cu11",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5905386,
+   "name": "unicodecsv",
+   "wheel": false,
+   "value": 1,
+   "css_class": "default",
+   "icon": "\u2717",
+   "title": "This package has no wheel archives uploaded (yet!)."
+  },
+  {
+   "downloads": 5897960,
+   "name": "dbt-extractor",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5844131,
+   "name": "azure-mgmt-search",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5842562,
+   "name": "pydot",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5834092,
+   "name": "azure-mgmt-cognitiveservices",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5831034,
+   "name": "lazy-loader",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5827235,
+   "name": "phonenumbers",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5812508,
+   "name": "azure-mgmt-servicefabric",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5808646,
+   "name": "azure-storage-file-share",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5807470,
+   "name": "azure-mgmt-managementgroups",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5795167,
+   "name": "pyserial",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5783885,
+   "name": "google-cloud-texttospeech",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5766300,
+   "name": "pytest-rerunfailures",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5760914,
+   "name": "azure-mgmt-eventgrid",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5759453,
+   "name": "azure-mgmt-applicationinsights",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5758546,
+   "name": "apache-airflow-providers-common-io",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5755750,
+   "name": "edgegrid-python",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5751290,
+   "name": "types-awscrt",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5741080,
+   "name": "fiona",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5736308,
+   "name": "azure-mgmt-datafactory",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5729188,
+   "name": "apache-airflow-providers-smtp",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5728242,
+   "name": "opencv-python-headless",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5710241,
+   "name": "azure-mgmt-billing",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5710188,
+   "name": "azure-mgmt-advisor",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5706113,
+   "name": "nvidia-cuda-runtime-cu11",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5704030,
+   "name": "azure-mgmt-media",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5696878,
+   "name": "azure-mgmt-iothubprovisioningservices",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5688910,
+   "name": "kfp",
+   "wheel": false,
+   "value": 1,
+   "css_class": "default",
+   "icon": "\u2717",
+   "title": "This package has no wheel archives uploaded (yet!)."
+  },
+  {
+   "downloads": 5687981,
+   "name": "azure-mgmt-batchai",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5684530,
+   "name": "azure-mgmt-policyinsights",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5667781,
+   "name": "azure-mgmt-iotcentral",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5667568,
+   "name": "nvidia-cuda-nvrtc-cu11",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5664742,
+   "name": "partd",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5661389,
+   "name": "azure-mgmt-datamigration",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5659714,
+   "name": "azure-mgmt-maps",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5652877,
+   "name": "opentelemetry-util-http",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5620481,
+   "name": "typed-ast",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5618391,
+   "name": "xarray",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5618303,
+   "name": "ddsketch",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5615053,
+   "name": "types-setuptools",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5601293,
+   "name": "pipx",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5598722,
+   "name": "python-docx",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5598019,
+   "name": "flask-wtf",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5581693,
+   "name": "inflect",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5566325,
+   "name": "flask-login",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5541381,
+   "name": "python-gitlab",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5539554,
+   "name": "locket",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5532776,
+   "name": "azure-appconfiguration",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5524023,
+   "name": "gcloud-aio-storage",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5515635,
+   "name": "types-urllib3",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5508121,
+   "name": "sqlalchemy-utils",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5489507,
+   "name": "pyotp",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5488088,
+   "name": "python-levenshtein",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5475923,
+   "name": "jupyter-console",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5454990,
+   "name": "databricks-sdk",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5432187,
+   "name": "geoip2",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5403965,
+   "name": "pydantic-settings",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5397666,
+   "name": "fastparquet",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5387659,
+   "name": "gcloud-aio-auth",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5371599,
+   "name": "slackclient",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5367366,
+   "name": "marisa-trie",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5347555,
+   "name": "iso8601",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5341211,
+   "name": "google-cloud-compute",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5324594,
+   "name": "bytecode",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5314394,
+   "name": "wtforms",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5291078,
+   "name": "jupyter",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5240589,
+   "name": "apache-airflow-providers-sqlite",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5237675,
+   "name": "ansible",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5212887,
+   "name": "starkbank-ecdsa",
+   "wheel": false,
+   "value": 1,
+   "css_class": "default",
+   "icon": "\u2717",
+   "title": "This package has no wheel archives uploaded (yet!)."
+  },
+  {
+   "downloads": 5195105,
+   "name": "tensorboard-plugin-wit",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5186218,
+   "name": "methodtools",
+   "wheel": false,
+   "value": 1,
+   "css_class": "default",
+   "icon": "\u2717",
+   "title": "This package has no wheel archives uploaded (yet!)."
+  },
+  {
+   "downloads": 5171554,
+   "name": "langchain-text-splitters",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5165049,
+   "name": "apache-airflow-providers-ftp",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5159295,
+   "name": "gcloud-aio-bigquery",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5146127,
+   "name": "crcmod",
+   "wheel": false,
+   "value": 1,
+   "css_class": "default",
+   "icon": "\u2717",
+   "title": "This package has no wheel archives uploaded (yet!)."
+  },
+  {
+   "downloads": 5141172,
+   "name": "geographiclib",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5131090,
+   "name": "types-pytz",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5123684,
+   "name": "cloudpathlib",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5121830,
+   "name": "netaddr",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5112166,
+   "name": "psycopg",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5098146,
+   "name": "types-s3transfer",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5089589,
+   "name": "geopy",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5083368,
+   "name": "ftfy",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5079694,
+   "name": "more-executors",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5079627,
+   "name": "ansible-core",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5063856,
+   "name": "fastpurge",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5045531,
+   "name": "azure-eventhub",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5031887,
+   "name": "django-cors-headers",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5022703,
+   "name": "dbt-semantic-interfaces",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5022561,
+   "name": "lark",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 5002810,
+   "name": "connexion",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4975746,
+   "name": "pytorch-lightning",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4957875,
+   "name": "cron-descriptor",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4953603,
+   "name": "dacite",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4953371,
+   "name": "language-data",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4917951,
+   "name": "onnx",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4882971,
+   "name": "envier",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4881548,
+   "name": "jax",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4870038,
+   "name": "azure-cli-telemetry",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4848830,
+   "name": "maxminddb",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4844109,
+   "name": "mlflow-skinny",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4843530,
+   "name": "azure-loganalytics",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4843403,
+   "name": "pyhcl",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4836498,
+   "name": "diskcache",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4824322,
+   "name": "azure-keyvault-certificates",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4813842,
+   "name": "wirerope",
+   "wheel": false,
+   "value": 1,
+   "css_class": "default",
+   "icon": "\u2717",
+   "title": "This package has no wheel archives uploaded (yet!)."
+  },
+  {
+   "downloads": 4812291,
+   "name": "cachelib",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4797219,
+   "name": "azure-mgmt-datalake-analytics",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4772178,
+   "name": "uamqp",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4768015,
+   "name": "azure-multiapi-storage",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4734719,
+   "name": "magicattr",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4734356,
+   "name": "timm",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4728338,
+   "name": "distributed",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4726557,
+   "name": "javaproperties",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4722480,
+   "name": "apache-airflow-providers-slack",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4706821,
+   "name": "hyperlink",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4700093,
+   "name": "azure-mgmt-apimanagement",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4679026,
+   "name": "azure-synapse-artifacts",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4674349,
+   "name": "limits",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4672865,
+   "name": "pathy",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4670415,
+   "name": "junitparser",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4642317,
+   "name": "apache-airflow-providers-imap",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4642024,
+   "name": "torchmetrics",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4623122,
+   "name": "marshmallow-sqlalchemy",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4622309,
+   "name": "flask-caching",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4619832,
+   "name": "azure-mgmt-consumption",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4604010,
+   "name": "requests-mock",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4603440,
+   "name": "pyee",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4602379,
+   "name": "azure-mgmt-relay",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4596810,
+   "name": "chex",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4592788,
+   "name": "prometheus-flask-exporter",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4584592,
+   "name": "marshmallow-enum",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4582579,
+   "name": "opentelemetry-instrumentation-asgi",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4545481,
+   "name": "torchaudio",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4542090,
+   "name": "azure-mgmt-hdinsight",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4542015,
+   "name": "keras-applications",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4525575,
+   "name": "frozendict",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4516809,
+   "name": "faiss-cpu",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4514895,
+   "name": "keras-preprocessing",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4504565,
+   "name": "pypdf",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4499957,
+   "name": "google-cloud",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4492180,
+   "name": "requests-ntlm",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4483539,
+   "name": "awscrt",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4458543,
+   "name": "statsd",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4445599,
+   "name": "azure-mgmt-reservations",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4444751,
+   "name": "mergedeep",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4442696,
+   "name": "azure-mgmt-security",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4435724,
+   "name": "gradio-client",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4420434,
+   "name": "jellyfish",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4402232,
+   "name": "flask-jwt-extended",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4391402,
+   "name": "pyaml",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4388249,
+   "name": "pydub",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4386156,
+   "name": "opentelemetry-instrumentation-fastapi",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4382110,
+   "name": "azure-mgmt-privatedns",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4368880,
+   "name": "azure-mgmt-kusto",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4358539,
+   "name": "azure-synapse-spark",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4354374,
+   "name": "events",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4352889,
+   "name": "pathlib",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4352204,
+   "name": "rich-argparse",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4350249,
+   "name": "tensorflow-metadata",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4349489,
+   "name": "mypy-boto3-appflow",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4336612,
+   "name": "azure-mgmt-redhatopenshift",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4326368,
+   "name": "setuptools-rust",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4324503,
+   "name": "pika",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4313888,
+   "name": "linkify-it-py",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4311165,
+   "name": "azure-mgmt-managedservices",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4309753,
+   "name": "azure-mgmt-netapp",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4306815,
+   "name": "logbook",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4304013,
+   "name": "azure-keyvault-administration",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4303647,
+   "name": "azure-mgmt-servicelinker",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4296398,
+   "name": "pytest-split",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4295555,
+   "name": "autopep8",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4294963,
+   "name": "azure-mgmt-servicefabricmanagedclusters",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4294724,
+   "name": "userpath",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4289752,
+   "name": "azure-mgmt-imagebuilder",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4272293,
+   "name": "h3",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4270133,
+   "name": "azure-kusto-data",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4259715,
+   "name": "azure-mgmt-synapse",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4244160,
+   "name": "azure-mgmt-appconfiguration",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4240511,
+   "name": "azure-mgmt-sqlvirtualmachine",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4239059,
+   "name": "natsort",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4226834,
+   "name": "azure-mgmt-botservice",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4225597,
+   "name": "reportlab",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4217578,
+   "name": "azure-synapse-accesscontrol",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4212480,
+   "name": "pytest-forked",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4207439,
+   "name": "uc-micro-py",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4206227,
+   "name": "azure-mgmt-databoxedge",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4205674,
+   "name": "azure-synapse-managedprivateendpoints",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4198821,
+   "name": "azure-mgmt-extendedlocation",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4194136,
+   "name": "asyncio",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4183420,
+   "name": "optax",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4172628,
+   "name": "convertdate",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4154733,
+   "name": "bracex",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4153680,
+   "name": "cerberus",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4149389,
+   "name": "google-re2",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4146287,
+   "name": "constructs",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4143341,
+   "name": "oracledb",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4117597,
+   "name": "mmh3",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4115824,
+   "name": "elasticsearch-dsl",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4109513,
+   "name": "lightning-utilities",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4104605,
+   "name": "configargparse",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4099633,
+   "name": "dm-tree",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4094758,
+   "name": "spark-nlp",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4090166,
+   "name": "flask-limiter",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4050271,
+   "name": "django-filter",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4035336,
+   "name": "nbclassic",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4022598,
+   "name": "apache-airflow-providers-amazon",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4009436,
+   "name": "azure-devops",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 4002208,
+   "name": "gensim",
+   "wheel": true,
+   "value": 1,
+   "css_class": "success",
+   "icon": "\u2713",
+   "title": "This package provides a wheel."
+  },
+  {
+   "downloads": 3997815,
+   "name": "minimal-snowplow-tracker",
+   "wheel": false,
+   "value": 1,
+   "css_class": "default",
+   "icon": "\u2717",
+   "title": "This package has no wheel archives uploaded (yet!)."
+  }
+ ],
+ "last_update": "Tuesday, 02 July 2024, 08:58:12 UTC"
+}
