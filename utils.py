@@ -2,6 +2,7 @@ import datetime
 import json
 import pytz
 import requests
+from packaging.metadata import Metadata
 
 
 BASE_URL = "https://pypi.org/pypi"
@@ -26,32 +27,35 @@ def get_json_url(package_name):
 
 
 def annotate_wheels(packages):
-    print("Getting wheel data...")
+    print("Getting dependency data...")
     num_packages = len(packages)
     for index, package in enumerate(packages):
         print(index + 1, num_packages, package["name"])
-        has_wheel = False
+        depends_on_six = False
         url = get_json_url(package["name"])
         response = SESSION.get(url)
         if response.status_code != 200:
             print(" ! Skipping " + package["name"])
             continue
         data = response.json()
-        for download in data["urls"]:
-            if download["packagetype"] == "bdist_wheel":
-                has_wheel = True
-        package["wheel"] = has_wheel
+        requires_dist = data["info"]["requires_dist"]
+        if requires_dist:
+            meta = Metadata.from_raw({"requires_dist": requires_dist}, validate=False)
+            if any(requirement.name == "six" for requirement in meta.requires_dist):
+                depends_on_six = True
+
+        package["wheel"] = depends_on_six
 
         # Display logic. I know, I'm sorry.
         package["value"] = 1
-        if has_wheel:
-            package["css_class"] = "success"
-            package["icon"] = "\u2713"  # Check mark
-            package["title"] = "This package provides a wheel."
-        else:
+        if depends_on_six:
             package["css_class"] = "default"
             package["icon"] = "\u2717"  # Ballot X
-            package["title"] = "This package has no wheel archives uploaded " "(yet!)."
+            package["title"] = "This package depends on six."
+        else:
+            package["css_class"] = "success"
+            package["icon"] = "\u2713"  # Check mark
+            package["title"] = "This package does not depend on six."
 
 
 def get_top_packages():
